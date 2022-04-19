@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome my corner of the GitHub Universe
 
-You can use the [editor on GitHub](https://github.com/magicalbrad/magicalbrad.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I have several public pages from Github repositories, so I thought it made sense to have a main page. So, umm, here it is! Tadaa!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Maybe I'll do more with this page later, but for now, here's a link to some of my stuff. It's a rather ecclectic list.
 
-### Markdown
+### [Tic Tac Toe Printing](https://github.com/magicalbrad/tictactoe)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There's a magic routine involving Tic Tac Toe. To perform it, you need to slice up and print out a graphic. This is a little utility to simplify that process.
 
-```markdown
-Syntax highlighted code block
+[https://github.com/magicalbrad/tictactoe](https://github.com/magicalbrad/tictactoe)
 
-# Header 1
-## Header 2
-### Header 3
+### [OBS Mediastar](https://github.com/magicalbrad/obs-mediastar)
 
-- Bulleted
-- List
+During the viral apocalypse, I started doing virtual events, and wanted a way to control Open Broadcast Studio (a.k.a. OBS) with my remote control. This is a little utility adds a hotkey to do that. I use a remote specifically designed for professional entertainers, but any Powerpoint or ofhter remote that sends a keystroke would work.
 
-1. Numbered
-2. List
+[https://github.com/magicalbrad/obs-mediastar](https://github.com/magicalbrad/obs-mediastar)
 
-**Bold** and _Italic_ and `Code` text
+### [Voice](https://github.com/magicalbrad/voice)
 
-[Link](url) and ![Image](src)
-```
+OK, so this one is a bit weird. I perform a routie using a robot character. This utility reads out the script with a synthetic voice, and creates a JSON file to control the robot. I'm 100% certain the JSON file will be of use to noone but me, but there's a chance someone could use the voice part. It's basically an implementation of [Speech Sytnhysis Markup Language](https://cloud.google.com/text-to-speech/docs/ssml)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[https://github.com/magicalbrad/voice](https://github.com/magicalbrad/voice)
 
-### Jekyll Themes
+### Thundertix Google Analytics GA4
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/magicalbrad/magicalbrad.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+When I find something I need to do that isn't yet well documented on the interwebs, I try to share what I learn for posterity. This is one of those times.
 
-### Support or Contact
+ThunderTix is a ticketing platform. Between Thundertix's lack of suport for GA4, and modern browser's cross-site cookie limitations, I found it surprisingly difficult to get GA4 working on a Thundertix iframe. This is documentation of what I finally got working. 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[https://github.com/magicalbrad/thundertixGA4](https://github.com/magicalbrad/thundertixGA4)
+
+### [Greater Cincinnati FCM Website](https://github.com/magicalbrad/cincyfcm)
+
+This is the source for the website of an organization I am involved with. It's public to allow other members to have easy access. It won't be of use to most people, but it may be of some value of an example of a simple static website built with the static site generator Eleventy and hosted on Netlify.
+
+[https://github.com/magicalbrad/cincyfcm](https://github.com/magicalbrad/cincyfcm)
