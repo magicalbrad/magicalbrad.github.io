@@ -22,7 +22,7 @@ OK, so this one is a bit weird. I perform a routie using a robot character. This
 
 [https://github.com/magicalbrad/voice](https://github.com/magicalbrad/voice)
 
-### Thundertix Google Analytics GA4
+### [Thundertix Google Analytics GA4](https://github.com/magicalbrad/thundertixGA4)
 
 When I find something I need to do that isn't yet well documented on the interwebs, I try to share what I learn for posterity. This is one of those times.
 
