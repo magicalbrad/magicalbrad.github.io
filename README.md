@@ -18,7 +18,7 @@ During the viral apocalypse, I started doing virtual events, and wanted a way to
 
 ### [Voice](https://magicalbrad.github.io/voice/)
 
-OK, so this one is a bit weird. I perform a routie using a robot character. This utility reads out the script with a synthetic voice, and creates a JSON file to control the robot. I'm 100% certain the JSON file will be of use to noone but me, but there's a chance someone could use the voice part. It's basically an implementation of [Speech Sytnhysis Markup Language](https://cloud.google.com/text-to-speech/docs/ssml)
+OK, so this one is a bit weird. I perform a routnie using a robot character. This utility reads out the script with a synthetic voice, and creates a JSON file to control the robot. I'm 100% certain the JSON file will be of use to no one but me, but there's a chance someone could use the voice part. It's basically an implementation of [Speech Sytnhysis Markup Language](https://cloud.google.com/text-to-speech/docs/ssml)
 
 [Webpage](https://magicalbrad.github.io/voice/) \| [Github Repo](https://github.com/magicalbrad/voice)
 
