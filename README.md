@@ -12,7 +12,7 @@ There's a magic routine involving Tic Tac Toe. To perform it, you need to slice 
 
 ### [OBS Mediastar](https://magicalbrad.github.io/obs-mediastar/)
 
-During the viral apocalypse, I started doing virtual events, and wanted a way to control Open Broadcast Studio (a.k.a. OBS) with my remote control. This is a little utility adds a hotkey to do that. I use a remote specifically designed for professional entertainers, but any Powerpoint or ofhter remote that sends a keystroke would work.
+During the viral apocalypse, I started doing virtual events, and wanted a way to control Open Broadcast Studio (a.k.a. OBS) with my remote control. This is a little utility adds a hotkey to do that. I use a remote specifically designed for professional entertainers, but any Powerpoint or other remote that sends a keystroke would work.
 
 [Webpage](https://magicalbrad.github.io/obs-mediastar/) \| [Github Repo](https://github.com/magicalbrad/obs-mediastar)
 
